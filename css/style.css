@@ -292,10 +292,6 @@ ul:not(.browser-default) {
   border: 0;
 }
 
-.design-process-section {
-  background-color: #f5f5f5;
-}
-
 .process-model {
   list-style: none;
   padding: 0;
